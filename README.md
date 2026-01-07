@@ -160,20 +160,6 @@ Automatically suggests next analytical actions.
 
 * * * * *
 
-📂 Project Structure
---------------------
-
-`├── project.py              # Column role inference (Phase 2)
-├── REFINE.py               # Business KPI refinement
-├── Cat.py                  # Revenue & growth engine
-├── phase3_charts.py        # Trend & Pareto charts
-├── insight.py              # Insight engine + curation + summaries
-├── brain.py                # Orchestrator (main runner)
-├── data.xlsx / data.csv    # Input data (example)
-└── README.md`
-
-* * * * *
-
 ▶️ How to Run
 -------------
 
