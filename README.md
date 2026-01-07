@@ -31,14 +31,6 @@ This project simulates how **real analytics platforms** (Power BI / Tableau / Qu
 🚀 Why This Project Is Different
 --------------------------------
 
-Most analytics projects:
-
--   Assume perfect column names
-
--   Require manual KPI selection
-
--   Dump charts without interpretation
-
 This engine:
 
 -   **Infers meaning from data**
