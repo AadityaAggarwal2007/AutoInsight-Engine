@@ -18,6 +18,8 @@ An end-to-end **data-driven analytics engine** that automatically converts raw C
 This project simulates how **real analytics platforms** (Power BI / Tableau / QuickSight) think internally --- but built entirely in Python.
 
 * * * * *
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/072e06e3-e680-41a6-813f-33b4590ab5e0" />
+
 
 🚀 Why This Project Is Different
 --------------------------------
