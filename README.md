@@ -20,6 +20,13 @@ This project simulates how **real analytics platforms** (Power BI / Tableau / Qu
 * * * * *
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/072e06e3-e680-41a6-813f-33b4590ab5e0" />
 
+<img width="1536" height="940" alt="image" src="https://github.com/user-attachments/assets/298276eb-4ebd-4eb8-b7d0-857064fffc4c" />
+
+<img width="1002" height="566" alt="Screenshot 2026-01-07 at 6 12 27 PM" src="https://github.com/user-attachments/assets/bb18b98c-9b1a-4337-bd6a-a3d3b8377b32" />
+
+<img width="1002" height="566" alt="Screenshot 2026-01-07 at 6 12 38 PM" src="https://github.com/user-attachments/assets/2872b1ac-a472-49dc-87b4-7dc4d4c3f5a2" />
+
+<img width="981" height="323" alt="Screenshot 2026-01-07 at 6 14 35 PM" src="https://github.com/user-attachments/assets/3ca1af83-0ef3-4bc4-b736-c4c22abc308a" />
 
 🚀 Why This Project Is Different
 --------------------------------
